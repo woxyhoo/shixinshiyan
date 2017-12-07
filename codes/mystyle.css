@@ -1,0 +1,22 @@
+
+
+h1 {
+  color:green;
+  font-size:40px;
+}
+p {
+  line-height:3;
+  color:yellow;
+  background-color: red;
+}
+#good {
+  color:red;
+  font-size:30px;
+  background-color:blue;
+}
+.center {
+  line-height:2.5;
+  color:red;
+  background-color: yellow;
+  text-align: center;
+}
